@@ -16,3 +16,5 @@ Github user account search us### Descriptiones a Github API to allow users to se
 7. Jquery
 
 ### Usage manual
+1. Navigate to the search page by clicking the search button.
+2. Search for any github user account.
