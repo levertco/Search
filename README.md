@@ -29,3 +29,5 @@ Github user account search us### Descriptiones a Github API to allow users to se
     
     ### Setup
      1. To access this project, you will need to clone it.
+     2. Use this command in your terminal.
+`git clone https://github.com/levertco/Search`
