@@ -37,3 +37,5 @@ There are currently no known bugs detected. Contact levertco@gmail.com incase of
 
 ### Live site
 You can view the live site [here](https://levertco.github.io/Search/)
+
+### Licence
