@@ -27,5 +27,5 @@ Github user account search us### Descriptiones a Github API to allow users to se
   2. The user will also require angular
     `$ npm install -g @angular/cli`
     
-     ### Setup
-     
+    ### Setup
+     1. To access this project, you will need to clone it.
