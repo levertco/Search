@@ -14,3 +14,5 @@ Github user account search us### Descriptiones a Github API to allow users to se
 5. Html
 6. JavaScript
 7. Jquery
+
+### Usage manual
