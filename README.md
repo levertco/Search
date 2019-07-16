@@ -39,3 +39,4 @@ There are currently no known bugs detected. Contact levertco@gmail.com incase of
 You can view the live site [here](https://levertco.github.io/Search/)
 
 ### Licence
+This project is under the [MIT](https://github.com/levertco/github/blob/master/LICENSE) licence
