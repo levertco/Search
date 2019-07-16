@@ -36,3 +36,4 @@ Github user account search us### Descriptiones a Github API to allow users to se
 There are currently no known bugs detected. Contact levertco@gmail.com incase of any bugs
 
 ### Live site
+You can view the live site [here](https://levertco.github.io/Search/)
