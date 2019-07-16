@@ -40,3 +40,5 @@ You can view the live site [here](https://levertco.github.io/Search/)
 
 ### Licence
 This project is under the [MIT](https://github.com/levertco/github/blob/master/LICENSE) licence
+
+Copyright (c) 2019 Levert
