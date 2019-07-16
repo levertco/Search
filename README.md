@@ -10,3 +10,5 @@ Github user account search us### Descriptiones a Github API to allow users to se
 1. Angular 8 
 2. Typescript
 3. Jquery
+4. Github API
+5. Html
