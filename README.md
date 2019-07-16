@@ -19,3 +19,8 @@ Github user account search us### Descriptiones a Github API to allow users to se
 1. Navigate to the search page by clicking the search button.
 2. Search for any github user account.
 3. The account will then be listed below and then you will be given an option to view the users repositories.
+
+### Prerequisites
+1. To clone this project to your local folder, you will first need to install git.
+  Use this command in your terminal
+  `$ sudo apt install git-all`
