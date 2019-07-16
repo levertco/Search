@@ -24,3 +24,6 @@ Github user account search us### Descriptiones a Github API to allow users to se
 1. To clone this project to your local folder, you will first need to install git.
   Use this command in your terminal
   `$ sudo apt install git-all`
+  2. The user will also require angular
+    `$ npm install -g @angular/cli`
+    
