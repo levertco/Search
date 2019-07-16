@@ -33,3 +33,4 @@ Github user account search us### Descriptiones a Github API to allow users to se
 `git clone https://github.com/levertco/Search`
 
 ### Known Bugs
+There are currently no known bugs detected. Contact levertco@gmail.com incase of any bugs
